@@ -1,0 +1,11 @@
+package com.cedar.designpattern.factory.absfactory.pizzastore.order;
+
+import com.cedar.designpattern.factory.absfactory.pizzastore.pizza.Pizza;
+
+// 一个抽象工厂模式的抽象层（接口）
+public interface AbsFactory {
+
+    // 让下面的工厂子类来具体实线
+    Pizza createPizza(String orderType);
+    
+}
