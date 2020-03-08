@@ -7,7 +7,6 @@ output/
 *.tar
 *.tar.gz
 *.factorypath
-*_*.md
 
 # eclipse ignore
 .settings/
