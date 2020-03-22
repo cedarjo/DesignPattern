@@ -69,7 +69,7 @@
             <constraint>
               <height>-1</height>
               <width>-1</width>
-              <x>134</x>
+              <x>120</x>
               <y>294</y>
             </constraint>
             <sourceConnections>
@@ -218,8 +218,8 @@
                   <constraint>
                     <height>-1</height>
                     <width>-1</width>
-                    <x>363</x>
-                    <y>430</y>
+                    <x>283</x>
+                    <y>443</y>
                   </constraint>
                   <sourceConnections>
                     <net.java.amateras.uml.classdiagram.model.GeneralizationModel>
@@ -328,8 +328,8 @@
                   <constraint>
                     <height>-1</height>
                     <width>-1</width>
-                    <x>563</x>
-                    <y>427</y>
+                    <x>483</x>
+                    <y>440</y>
                   </constraint>
                   <sourceConnections>
                     <net.java.amateras.uml.classdiagram.model.GeneralizationModel>
@@ -436,8 +436,8 @@
             <constraint>
               <height>-1</height>
               <width>-1</width>
-              <x>433</x>
-              <y>281</y>
+              <x>353</x>
+              <y>294</y>
             </constraint>
             <sourceConnections>
               <net.java.amateras.uml.classdiagram.model.RealizationModel>
@@ -554,7 +554,19 @@
             <path></path>
             <isAbstract>false</isAbstract>
           </target>
-          <bendpoints/>
+          <bendpoints>
+            <net.java.amateras.uml.editpart.ConnectionBendpoint>
+              <weight>0.5</weight>
+              <d1>
+                <width>227</width>
+                <height>2</height>
+              </d1>
+              <d2>
+                <width>-1</width>
+                <height>-147</height>
+              </d2>
+            </net.java.amateras.uml.editpart.ConnectionBendpoint>
+          </bendpoints>
           <stereoType></stereoType>
           <fromMultiplicity></fromMultiplicity>
           <toMultiplicity></toMultiplicity>
