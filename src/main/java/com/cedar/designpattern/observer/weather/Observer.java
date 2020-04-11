@@ -1,4 +1,4 @@
-package com.cedar.designpattern.observer.improve;
+package com.cedar.designpattern.observer.weather;
 
 public interface Observer {
 
